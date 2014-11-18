@@ -45,4 +45,4 @@
 Die Anzeige des Clients könnte (ohne Eingabebuttons) etwa so aussehen:
 ![](ctfmap_skizze.png)
 Ringmenü Bsp.
-![Ringmenü](ringmenu.jpg "http://technikfaultier.com/wp-content/uploads/2013/06/Android-4.3-Kamera-App.jpg")
+![](http://technikfaultier.com/wp-content/uploads/2013/06/Android-4.3-Kamera-App.jpg "Ringmenü http://technikfaultier.com/wp-content/uploads/2013/06/Android-4.3-Kamera-App.jpg")
