@@ -1,0 +1,31 @@
+#Client to Server
+- Player Info
+	- Position
+	- Direction (Compass) ?
+	- Events (Caught,Freed,FlagTaken,FlagLost) 
+#Server to Client
+- Game
+	- State (Preparing, Running, GameOver)
+	- Starttime
+	- Endtime
+	- Winner (Red,Blue,None)
+- Teams
+	- TeamID (0,1,...)
+  - Info about Players
+		- PlayerID (0,1,...)
+		- Position
+		- Status (Free, Caught)
+		- HasFlag (True/False)
+		- Direction (Compass) ?
+		- Internet Connection (Connected / Disconnected)
+	- Info about Flags
+		- FlagID (0,1,...)
+		- Position
+		- Status (Free, Carried, Lost)
+	- Marker-Events
+		- Type (Add, Delete)
+		- MarkerID
+		- CreationDate
+		- Position
+		- MarkerType (Flag, PlayerSpottet, Movehere, ..)
+		
