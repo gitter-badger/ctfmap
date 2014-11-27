@@ -11,14 +11,14 @@
 		1. 10.12. Sammeln und Verteilen der Positionen
 3. Dateninterpretation
 	1. Server
-		1. Speichern aller Events 
-		2. Anzeige von Statistiken
-		3. Replays & Live Zuschauen
+		1. 12.12. Speichern aller Events
+		2. 14.12. Replays & Live Zuschauen
+		3. 18.12. Anzeige von Statistiken
 	2. Client
 		1. 17.12. Infoleiste funktional
 		2. 18.12. Anpassende Spielericons
 4. Spielbarkeit
-	1. Fehlende Events einbauen, auf Client verfügbar machen 
+	1. Fehlende Events einbauen, auf Client verfügbar machen
 5. User Dokumentation anfertigen
 	1. Client
 	2. Server
